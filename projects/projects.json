@@ -42,7 +42,7 @@
   },
   {
     "name": "Web Crawler",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "desc": "web crawler made using java, SQL lite and javaFx.",
     "image": "webcrawler",
     "category": "Java",
     "links": {
